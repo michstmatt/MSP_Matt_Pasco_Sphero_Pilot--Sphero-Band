@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MATTS-SURFACE</Machine>
+    <WindowsUser>Matt</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>72e3c915-41ab-4ec5-af38-56c6bb4f4f64</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\SpheroBand\SpheroBand\SpheroBand.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\SpheroBand\SpheroBand\SpheroBand.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\SpheroBand\SpheroBand\SpheroBand.Windows\bin\Debug\SpheroBand.Windows.exe">
+      <PackagePath>SpheroBand.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\SpheroBand\packages\Microsoft.Band.1.3.10417\lib\netcore451\Microsoft.Band.dll">
+      <PackagePath>Microsoft.Band.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\SpheroBand\packages\Microsoft.Band.1.3.10417\lib\netcore451\Microsoft.Band.Store.dll">
+      <PackagePath>Microsoft.Band.Store.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\SpheroBand\packages\Microsoft.Band.1.3.10417\lib\netcore451\Microsoft.Band.Windows.dll">
+      <PackagePath>Microsoft.Band.Windows.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\SpheroBand\SpheroBand\RobotKit.dll">
+      <PackagePath>RobotKit.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\SpheroBand\SpheroBand\SpheroBand.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\SpheroBand\SpheroBand\SpheroBand.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\SpheroBand\SpheroBand\SpheroBand.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\SpheroBand\SpheroBand\SpheroBand.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\SpheroBand\SpheroBand\SpheroBand.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\SpheroBand\SpheroBand\SpheroBand.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\SpheroBand\SpheroBand\SpheroBand.Windows\bin\Debug\SpheroBand.Windows.xr.xml">
+      <PackagePath>SpheroBand.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\SpheroBand\packages\Microsoft.Band.1.3.10417\lib\netcore451\Microsoft.Band.Store\Microsoft.Band.Store.xr.xml">
+      <PackagePath>Microsoft.Band.Store\Microsoft.Band.Store.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\SpheroBand\packages\Microsoft.Band.1.3.10417\lib\netcore451\Microsoft.Band.Store\Sensors\SensorConsentPage.xbf">
+      <PackagePath>Microsoft.Band.Store\Sensors\SensorConsentPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\SpheroBand\packages\Microsoft.Band.1.3.10417\lib\netcore451\Microsoft.Band.Store\Tiles\AddTilePage.xbf">
+      <PackagePath>Microsoft.Band.Store\Tiles\AddTilePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\SpheroBand\packages\Microsoft.Band.1.3.10417\lib\netcore451\Microsoft.Band.Windows\Microsoft.Band.Windows.xr.xml">
+      <PackagePath>Microsoft.Band.Windows\Microsoft.Band.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\SpheroBand\packages\Microsoft.Band.1.3.10417\lib\netcore451\Microsoft.Band.Windows\Sensors\WindowsSensorConsentPage.xbf">
+      <PackagePath>Microsoft.Band.Windows\Sensors\WindowsSensorConsentPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\SpheroBand\packages\Microsoft.Band.1.3.10417\lib\netcore451\Microsoft.Band.Windows\Tiles\WindowsAddTilePage.xbf">
+      <PackagePath>Microsoft.Band.Windows\Tiles\WindowsAddTilePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Matt\OneDrive\Documents\Visual Studio 2013\Projects\SpheroBand\SpheroBand\SpheroBand.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
