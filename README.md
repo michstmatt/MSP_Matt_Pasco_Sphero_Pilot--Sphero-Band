@@ -1,4 +1,4 @@
-# MSP_Matt_Pasco_Sphero_Pilot--Sphero-Band
+# MSP Matt Pasco Sphero Pilot--Sphero Band
 Able to control with your Microsoft Band
 #Week 1
 Learned how to pull sensor data from Microsoft band
